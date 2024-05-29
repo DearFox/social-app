@@ -15,7 +15,7 @@ msgstr ""
 
 #: src/view/com/modals/VerifyEmail.tsx:151
 msgid "(no email)"
-msgstr "(нет эл. адреса)"
+msgstr "(нет эл. почты)"
 
 #: src/components/ProfileHoverCard/index.web.tsx:446
 #: src/screens/Profile/Header/Metrics.tsx:44
@@ -1431,7 +1431,7 @@ msgstr "Образование"
 #: src/screens/Signup/StepInfo/index.tsx:80
 #: src/view/com/modals/ChangeEmail.tsx:143
 msgid "Email"
-msgstr "Эл. адреса"
+msgstr "Эл. почта"
 
 #: src/view/screens/Settings/DisableEmail2FADialog.tsx:65
 msgid "Email 2FA disabled"
@@ -1456,7 +1456,7 @@ msgstr "Электронный адрес проверен"
 
 #: src/view/screens/Settings/index.tsx:327
 msgid "Email:"
-msgstr "Эл. адреса:"
+msgstr "Эл. почта:"
 
 #: src/components/dialogs/Embed.tsx:112
 msgid "Embed HTML code"
@@ -2136,7 +2136,7 @@ msgstr "Если вы хотите изменить пароль, мы отпр�
 
 #: src/lib/moderation/useReportOptions.ts:36
 msgid "Illegal and Urgent"
-msgstr "Незаконный и неотложный"
+msgstr "Незаконно и срочно"
 
 #: src/view/com/util/images/Gallery.tsx:38
 msgid "Image"
@@ -2389,7 +2389,7 @@ msgstr "понравился ваш пост"
 
 #: src/view/screens/Profile.tsx:196
 msgid "Likes"
-msgstr "Предпочтения"
+msgstr "Нравится"
 
 #: src/view/com/post-thread/PostThreadItem.tsx:183
 msgid "Likes on this post"
@@ -2939,7 +2939,7 @@ msgstr "Примечание: Bluesky является открытой и пу�
 #: src/view/shell/Drawer.tsx:436
 #: src/view/shell/Drawer.tsx:437
 msgid "Notifications"
-msgstr "Оповещение"
+msgstr "Уведомления"
 
 #: src/view/com/modals/SelfLabel.tsx:103
 msgid "Nudity"
